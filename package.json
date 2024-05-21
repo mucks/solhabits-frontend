@@ -25,14 +25,14 @@
     "next": "^13.1.5",
     "next-compose-plugins": "^2.2.1",
     "next-transpile-modules": "^10.0.0",
-    "react": "^18.2.0",
+    "react": "^18.3.1",
     "react-dom": "^18.2.0",
     "zustand": "^3.6.9"
   },
   "devDependencies": {
     "@faker-js/faker": "^8.4.1",
     "@types/node": "^18.11.18",
-    "@types/react": "^18.0.27",
+    "@types/react": "^18.3.2",
     "autoprefixer": "^10.4.2",
     "eslint": "8.7.0",
     "eslint-config-next": "^13.1.5",
